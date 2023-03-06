@@ -1,0 +1,4 @@
+Stížnosti finančních spotřebitelů
+
+Tato popisná analýza stížností finančních spotřebitelů se zabívá průzkumem nejčastějších problémů u finančních produktů jako je například kreditní karty, vymáhání pohledávek, bankovní účet atd. K této analýze je využit programovací jazyk Python, Jupyter Notebook a hlavní knihovna Pandas, dále knihovna Seaborn k vizualizaci dat. Načtení datové sady je prostřednictvím url. 
+Poté je datový rámec upraven, převeden do formátu CSV a exportován do relační datábáze PostgreSQL. Tento dataset je cvičný a veškerá data jsou smyšlená. Jedná se o simulaci skutečného datasetu z USA. Veškeré reporty mají sloužit k nápravě problému u finančních produktů a zaměření se na zkvalitnění služeb.
